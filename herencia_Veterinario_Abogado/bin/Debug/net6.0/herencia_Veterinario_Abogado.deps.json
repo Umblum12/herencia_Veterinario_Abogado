@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "herencia_Veterinario_Abogado/1.0.0": {
+        "runtime": {
+          "herencia_Veterinario_Abogado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "herencia_Veterinario_Abogado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

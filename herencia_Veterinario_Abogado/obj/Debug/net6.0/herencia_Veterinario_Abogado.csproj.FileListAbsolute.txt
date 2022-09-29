@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.AssemblyInfo.cs
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\bin\Debug\net6.0\herencia_Veterinario_Abogado.exe
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\bin\Debug\net6.0\herencia_Veterinario_Abogado.deps.json
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\bin\Debug\net6.0\herencia_Veterinario_Abogado.runtimeconfig.json
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\bin\Debug\net6.0\herencia_Veterinario_Abogado.dll
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\bin\Debug\net6.0\herencia_Veterinario_Abogado.pdb
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.dll
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\refint\herencia_Veterinario_Abogado.dll
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.pdb
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\herencia_Veterinario_Abogado.genruntimeconfig.cache
+C:\Users\abela\source\repos\herencia_Veterinario_Abogado\herencia_Veterinario_Abogado\obj\Debug\net6.0\ref\herencia_Veterinario_Abogado.dll
